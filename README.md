@@ -18,4 +18,4 @@ Obs.: Be aware that providing small learning rate will slow the process of fitti
 
 ## Further info
 
-For more details consider to see the video tutorial of this tool at our [YouTube channel](https://youtu.be/hTnJUbHeZ8A)
+For more details consider to see the video tutorial of this tool at our [YouTube channel](https://youtu.be/hTnJUbHeZ8A). Or follow discussion about it at the oficial [File Exchange Page](https://www.mathworks.com/matlabcentral/fileexchange/102569-gui-that-perform-linear-regression-using-gradient-descent).
