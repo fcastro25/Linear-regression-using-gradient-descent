@@ -29,4 +29,5 @@ Fabricio Castro (2021). GUI that perform linear regression using gradient descen
 
 ## Further Info
 
-For more details consider to see the video tutorial of this tool at our [YouTube channel](https://youtu.be/hTnJUbHeZ8A). Or follow discussion about it at the oficial [File Exchange Page](https://www.mathworks.com/matlabcentral/fileexchange/102569-gui-that-perform-linear-regression-using-gradient-descent).
+- For more details consider to see the video tutorial of this tool at our [YouTube channel](https://youtu.be/hTnJUbHeZ8A).
+- Or follow discussion about it at the oficial [File Exchange Page](https://www.mathworks.com/matlabcentral/fileexchange/102569-gui-that-perform-linear-regression-using-gradient-descent).
