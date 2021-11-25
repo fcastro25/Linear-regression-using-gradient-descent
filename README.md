@@ -4,7 +4,7 @@
 
 This GUI was designed to aid college professors to teach how linear regression with gradient descent works in practice.
 
-- GUI features;
+## GUI Features
 
 This GUI enables the user to generate scattered points randomly with linear behavior and use the gradient descent algorithm to fit iteratively a line to the generated data.
 
