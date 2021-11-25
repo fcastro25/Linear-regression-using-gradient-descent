@@ -14,7 +14,10 @@ Once the user provided the data, a initial line can be generated whose angular a
 
 When the user click over the "optimize line" button the linear regression is done, and both loss function graphs and parameters table are updated/feeded in each iteration.
 
-Obs.: Be aware that providing small learning rate will slow the process of fitting with resonable loss value. And big learning rates will make gradient descent perform big jumps disabling it to converge to the loss function minima which will mess up the fitting process too.
+## Some Observations
+
+- Be aware that providing small learning rate will slow the process of fitting with resonable loss value. And big learning rates will make gradient descent perform big jumps disabling it to converge to the loss function minima which will mess up the fitting process too.
+- By hovering the mouse cursor over the GUI components a tooltip with a brief description of what the component do will pop up.
 
 ## Cite As
 
