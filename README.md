@@ -19,10 +19,14 @@ When the user click over the "optimize line" button the linear regression is don
 - Be aware that providing small learning rate will slow the process of fitting with resonable loss value. And big learning rates will make gradient descent perform big jumps disabling it to converge to the loss function minima which will mess up the fitting process too.
 - By hovering the mouse cursor over the GUI components a tooltip with a brief description of what the component do will pop up.
 
+## Future Implementations
+
+- I'm gonna add a function to load external data from ASCII file.
+
 ## Cite As
 
 Fabricio Castro (2021). GUI that perform linear regression using gradient descent (https://www.mathworks.com/matlabcentral/fileexchange/102569-gui-that-perform-linear-regression-using-gradient-descent), MATLAB Central File Exchange. Retrieved November 25, 2021.
 
-## Further info
+## Further Info
 
 For more details consider to see the video tutorial of this tool at our [YouTube channel](https://youtu.be/hTnJUbHeZ8A). Or follow discussion about it at the oficial [File Exchange Page](https://www.mathworks.com/matlabcentral/fileexchange/102569-gui-that-perform-linear-regression-using-gradient-descent).
