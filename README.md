@@ -16,15 +16,6 @@ When the user click over the "optimize line" button the linear regression is don
 
 Obs.: Be aware that providing small learning rate will slow the process of fitting with resonable loss value. And big learning rates will make gradient descent perform big jumps disabling it to converge to the loss function minima which will mess up the fitting process too.
 
-## Video tutorial
-
-<iframe width="560" height="315"
-        src="https://www.youtube.com/embed/hTnJUbHeZ8A"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-
 ## Further info
 
 For more details consider to see the video tutorial of this tool at our [YouTube channel](https://youtu.be/hTnJUbHeZ8A). Or follow discussion about it at the oficial [File Exchange Page](https://www.mathworks.com/matlabcentral/fileexchange/102569-gui-that-perform-linear-regression-using-gradient-descent).
